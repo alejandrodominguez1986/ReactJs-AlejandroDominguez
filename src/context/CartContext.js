@@ -51,7 +51,9 @@ export const CartProvider = ({ children }) => {
     })
   }
 
-
+  const terminarMiCompra = () => {
+    setCart([])
+  }
 
   useEffect(() => {
     localStorage.setItem('carrito', JSON.stringify(cart))
@@ -66,6 +68,7 @@ export const CartProvider = ({ children }) => {
       cartTotal,
       emptyCart,
       removeItem,
+      terminarMiCompra,
 
     }}>
       {children}
