@@ -7,9 +7,10 @@
 
                           [⚡ Email: 'fattoincasamad@gmail.com'](📝 Password: 'coder1986')
 
-- 👨‍💻Tecnologías y librerías utilizadas [⚡ Ruteo con React Router Dom](⚡ Ruteo con React Router Dom)
+- 👨‍💻Tecnologías y librerías utilizadas 
+                                        (⚡ Ruteo con React Router Dom)
 
-                                        [👨‍💻 Alertas con Sweet Alert](👨‍💻 Alertas con Sweet Alert)
+                                        (👨‍💻 Alertas con Sweet Alert)
 
                                         **📄 Interfaz realizada con ReactJS - Create React App**
 
