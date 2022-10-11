@@ -5,15 +5,15 @@
 
 - 📝Para probar el login [⚡ Email: 'marcaledom26@gmail.com'](📝 Password: 'coder2022')
 
--                         [⚡ Email: 'fattoincasamad@gmail.com'](📝 Password: 'coder1986')
+                          [⚡ Email: 'fattoincasamad@gmail.com'](📝 Password: 'coder1986')
 
 - 👨‍💻Tecnologías y librerías utilizadas [⚡ Ruteo con React Router Dom](⚡ Ruteo con React Router Dom)
 
--                                       [👨‍💻 Alertas con Sweet Alert](👨‍💻 Alertas con Sweet Alert)
+                                        [👨‍💻 Alertas con Sweet Alert](👨‍💻 Alertas con Sweet Alert)
 
--                                       **📄 Interfaz realizada con ReactJS - Create React App**
+                                        **📄 Interfaz realizada con ReactJS - Create React App**
 
--                                       **👨‍💻 Estilos con Bootstrap**
+                                        **👨‍💻 Estilos con Bootstrap**
 
 - ⚡ Podes ver la pagina en vercel **📫 https://reactjs-alejandrodominguez.vercel.app/**
 
