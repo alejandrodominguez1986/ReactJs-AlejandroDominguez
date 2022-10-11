@@ -8,18 +8,27 @@ import ItemDetailContainer from '../components/ItemDetailsContainer/ItemDetailsC
 import ItemListContainer from '../components/ItemListContainer/ItemListContainer'
 import { Header } from '../components/Header/Header'
 import Checkout from '../components/Check-Out/Checkout'
+import LoginScreen from '../components/LoginScreen/LoginScreen';
+
+
+
+
+
 
 const PublicRoutes = () => {
+    
 
     return (
         <>
         <Header/>
         <Routes>
-            
+
+
                 <Route path='/' element={<ItemListContainer />} />
                 <Route path='/productos/:categoryId' element={<ItemListContainer />} />
                 <Route path='/item/:itemId' element={<ItemDetailContainer />} />
                 <Route path='/cart' element={<Cart />} />
+                <Route path='/login' element={<LoginScreen />} />
                 <Route path='/checkout' element={<Checkout/>}/>
                 <Route path="/cucharas" element={<Cucharas/>} />
                 <Route path='/cuchillos' element={<Cuchillos />} />

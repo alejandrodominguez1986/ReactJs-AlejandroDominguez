@@ -11,10 +11,7 @@ export const useForm = (init) => {
         })
     }
 
-    // const handleResetForm = () => {
-    //     setValues(init)
-    // }
-
+    
     return ({
         values,
         handleInputChange

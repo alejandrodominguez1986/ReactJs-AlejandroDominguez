@@ -1,13 +1,17 @@
-import { useState } from "react"
+import { useContext, useState } from "react"
 import { Navigate } from "react-router-dom"
 import { useCartContext } from "../../context/CartContext"
 import { addDoc, collection, getDocs, writeBatch, query, where, documentId } from 'firebase/firestore'
 import { db } from "../../firebase/config"
 import { useForm } from "../../PothHooks/useForm"
+import { LoginContext } from "../LoginContext/LoginContext"
+import LoginScreen from "../LoginScreen/LoginScreen";
 
 const Checkout = () => {
 
     const { cart, cartTotal, terminarMiCompra } = useCartContext()
+
+    const { user} = useContext(LoginContext)
 
     const [orderId, setOrderId]= useState(null)
 
@@ -88,6 +92,10 @@ const Checkout = () => {
 
     if (cart.length === 0) {
         return <Navigate to="/" />
+    }
+
+    if (!user.logged) {
+        return <LoginScreen/>
     }
 
     return (

@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@1,900&display=swap');
 
+.btn-cerrar{
+    font-family: 'Vollkorn', serif;
+   
+}
 .navbar-container {
     max-width: 814px;
     margin: 0 auto;
