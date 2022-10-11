@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently working on [reactjs-alejandrodominguez](https://github.com/alejandrodominguez1986/reactjs-alejandrodominguez.git)
 
-- 📫 How to reach me **marcaledom26@gmail.com**
+- 👨‍💻Tecnologías y librerías utilizadas **📄**
+
+- 📝Para probar el login [⚡ Email: 'marcaledom26@gmail.com'](📝 Password: 'coder2022')
+
+- ⚡ Podes ver la pagina en vercel **📫 https://reactjs-alejandrodominguez.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
