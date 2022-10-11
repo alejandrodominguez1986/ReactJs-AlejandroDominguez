@@ -3,18 +3,28 @@
 
 - 🔭 I’m currently working on [reactjs-alejandrodominguez](https://github.com/alejandrodominguez1986/reactjs-alejandrodominguez.git)
 
+-Es un ecommerce de utencillos de gastronomia, donde se pueden ver todos los productos y ademas se puede entrar a cada producto para ver su detalle y elegir la cantidad del mismo producto que el cliente quiera comprar. Tambien tiene posibilidad el cliente de eliminar 1 producto de su carrito como tambien eliminar el carrito entero y volver a la pagina principal para empezar a relizar de nuevo su compra.
+En el momento que se queda sin stock el producto, al producto se le aparece un cartel que avisa de falta de estock. En el caso que el cliente quiera comprar mas del stock que tiene el producto el boton se bloquea para que no se sigan agregando unidades. Y si por esas casualidades el producto queda sin stock en el momento de realizar la compro con un alert avisamos que no se puede efectuar la compra 
+
+
+
 - 📝Para probar el login [⚡ Email: 'marcaledom26@gmail.com'](📝 Password: 'coder2022')
 
                           [⚡ Email: 'fattoincasamad@gmail.com'](📝 Password: 'coder1986')
 
-- 👨‍💻Tecnologías y librerías utilizadas 
-                                        (⚡ Ruteo con React Router Dom)
+- 👨‍💻Tecnologías y librerías utilizadas: 
+                                        ⚡ Ruteo con React Router Dom
 
-                                        (👨‍💻 Alertas con Sweet Alert)
+                                        👨‍💻 Alertas con Sweet Alert
 
-                                        **📄 Interfaz realizada con ReactJS - Create React App**
+                                        📄 Interfaz realizada con ReactJS - Create React App
 
-                                        **👨‍💻 Estilos con Bootstrap**
+                                        👨‍💻 Estilos con Bootstrap
+
+                                        📄 Context-react (Provider)
+
+                                        📄 Hooks
+                                        
 
 - ⚡ Podes ver la pagina en vercel **📫 https://reactjs-alejandrodominguez.vercel.app/**
 
